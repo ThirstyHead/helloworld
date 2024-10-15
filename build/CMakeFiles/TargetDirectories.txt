@@ -1,0 +1,3 @@
+/Users/scott/code/local/helloworld/build/CMakeFiles/hello_world.dir
+/Users/scott/code/local/helloworld/build/CMakeFiles/edit_cache.dir
+/Users/scott/code/local/helloworld/build/CMakeFiles/rebuild_cache.dir
